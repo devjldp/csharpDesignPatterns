@@ -1,0 +1,14 @@
+C:\Users\JoseIungo\Desktop\Iungo\Product\IUN4DDP - Design Patterns\3 - Exercises\LauraLesson\bin\Debug\net9.0\LauraLesson.exe
+C:\Users\JoseIungo\Desktop\Iungo\Product\IUN4DDP - Design Patterns\3 - Exercises\LauraLesson\bin\Debug\net9.0\LauraLesson.deps.json
+C:\Users\JoseIungo\Desktop\Iungo\Product\IUN4DDP - Design Patterns\3 - Exercises\LauraLesson\bin\Debug\net9.0\LauraLesson.runtimeconfig.json
+C:\Users\JoseIungo\Desktop\Iungo\Product\IUN4DDP - Design Patterns\3 - Exercises\LauraLesson\bin\Debug\net9.0\LauraLesson.dll
+C:\Users\JoseIungo\Desktop\Iungo\Product\IUN4DDP - Design Patterns\3 - Exercises\LauraLesson\bin\Debug\net9.0\LauraLesson.pdb
+C:\Users\JoseIungo\Desktop\Iungo\Product\IUN4DDP - Design Patterns\3 - Exercises\LauraLesson\obj\Debug\net9.0\LauraLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseIungo\Desktop\Iungo\Product\IUN4DDP - Design Patterns\3 - Exercises\LauraLesson\obj\Debug\net9.0\LauraLesson.AssemblyInfoInputs.cache
+C:\Users\JoseIungo\Desktop\Iungo\Product\IUN4DDP - Design Patterns\3 - Exercises\LauraLesson\obj\Debug\net9.0\LauraLesson.AssemblyInfo.cs
+C:\Users\JoseIungo\Desktop\Iungo\Product\IUN4DDP - Design Patterns\3 - Exercises\LauraLesson\obj\Debug\net9.0\LauraLesson.csproj.CoreCompileInputs.cache
+C:\Users\JoseIungo\Desktop\Iungo\Product\IUN4DDP - Design Patterns\3 - Exercises\LauraLesson\obj\Debug\net9.0\LauraLesson.dll
+C:\Users\JoseIungo\Desktop\Iungo\Product\IUN4DDP - Design Patterns\3 - Exercises\LauraLesson\obj\Debug\net9.0\refint\LauraLesson.dll
+C:\Users\JoseIungo\Desktop\Iungo\Product\IUN4DDP - Design Patterns\3 - Exercises\LauraLesson\obj\Debug\net9.0\LauraLesson.pdb
+C:\Users\JoseIungo\Desktop\Iungo\Product\IUN4DDP - Design Patterns\3 - Exercises\LauraLesson\obj\Debug\net9.0\LauraLesson.genruntimeconfig.cache
+C:\Users\JoseIungo\Desktop\Iungo\Product\IUN4DDP - Design Patterns\3 - Exercises\LauraLesson\obj\Debug\net9.0\ref\LauraLesson.dll
