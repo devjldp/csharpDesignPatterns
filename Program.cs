@@ -1,6 +1,7 @@
 ﻿using Composite;
 using Decortor;
 using EnemyFactoryDP;
+using State;
 using Strategy;
 
 namespace DP
@@ -79,7 +80,7 @@ namespace DP
 
 
 
-            // Decorator
+            // ========= Decorator ===============
 
             Coffee coffee = new Coffee();
             Console.WriteLine($"Cost of coffee: {coffee.Cost()}");
@@ -99,8 +100,13 @@ namespace DP
 
 
 
+            // ========= State Design Pattern ==============
+            
+            Goblin goblin = new Goblin();
 
-
+            goblin.Attack();
+            goblin.Attack();
+            goblin.Attack();
 
         }
     }
